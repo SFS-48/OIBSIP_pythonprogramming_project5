@@ -1,6 +1,6 @@
 # OIBSIP_pythonprogramming_project5
 
-## Chat Application (Client-Server Model with Emoji Support)
+# Chat Application 
 
 ## Objective
 The objective of this project is to build a simple client-server chat application in Python using sockets.  
