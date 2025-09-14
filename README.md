@@ -22,9 +22,9 @@ The application allows real-time communication between a client and server, supp
 
 3. Emoji Replacement  
    - Added a function to replace text-based emojis with Unicode emojis:  
-     - `:) → 😊`  
-     - `:( → 😢`  
-     - `:D → 😄`  
+     - :) → 😊  
+     - :( → 😢  
+     - :D → 😄  
 
 4. Tested communication  
    - Launched `server.py` first and then `client.py`.  
