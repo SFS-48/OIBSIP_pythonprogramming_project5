@@ -7,13 +7,13 @@ The objective of this project is to build a simple client-server chat applicatio
 The application allows real-time communication between a client and server, supports emoji replacement, and simulates typing indicators to enhance user experience.
 
 ## Steps Performed
-1. Set up the server (`server.py`)  
+1. Set up the server (server.py)  
    - Created a socket to listen for incoming client connections.  
    - Accepted client connections and received their name.  
    - Displayed client messages on the server console.  
    - Allowed the server user to send responses back to the client.  
 
-2. Developed the client (`client.py`)  
+2. Developed the client (client.py)  
    - Connected to the server using sockets.  
    - Asked the user to input their name.  
    - Implemented a background thread to receive messages from the server continuously.  
@@ -27,7 +27,7 @@ The application allows real-time communication between a client and server, supp
      - :D → 😄  
 
 4. Tested communication  
-   - Launched `server.py` first and then `client.py`.  
+   - Launched server.py first and then client.py.  
    - Verified bidirectional communication between server and client.  
    - Confirmed emoji replacements and typing simulation worked properly.  
 
